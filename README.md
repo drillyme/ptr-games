@@ -1,3 +1,6 @@
+#project url
+https://ptr-games-69420.web.app/
+
 # NgVideoGameDb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
