@@ -1,5 +1,5 @@
 #project url
-https://ptr-games-69420.web.app/
+https://ptr-games-69420.firebaseapp.com/
 
 # NgVideoGameDb
 
